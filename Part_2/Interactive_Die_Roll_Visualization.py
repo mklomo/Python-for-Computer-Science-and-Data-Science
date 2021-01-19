@@ -1,4 +1,4 @@
-b""" Dynamically graphing frequencies of die rolls """
+""" Dynamically graphing frequencies of die rolls """
 
 from matplotlib import animation
 
