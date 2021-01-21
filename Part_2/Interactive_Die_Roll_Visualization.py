@@ -1,5 +1,8 @@
 """ Dynamically graphing frequencies of die rolls """
 
+
+# Initializing Phase
+
 from matplotlib import animation
 
 import matplotlib.pyplot as plt
