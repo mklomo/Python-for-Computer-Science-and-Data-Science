@@ -3,16 +3,15 @@
 
 # Initializing Phase
 
-from matplotlib import animation
-
-import matplotlib.pyplot as plt
-
 import random
-
-import seaborn as sns
-
 import sys
 
+import matplotlib.pyplot as plt
+import seaborn as sns
+from matplotlib import animation
+
+
+# Processing Phase
 
 def update(frame_number, rolls, faces, frequencies):
     """ Configures barplot contents for each animation frame """
